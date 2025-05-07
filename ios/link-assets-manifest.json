@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/EBGaramond-Bold.ttf",
+      "sha1": "630c223439a61a0d4310cc5e109f6bdb8420ce86"
+    },
+    {
+      "path": "assets/Fonts/Pretendard-Bold.otf",
+      "sha1": "bd4ac82cc26cf93c89cfbfbbba8825c5198b5b99"
+    },
+    {
+      "path": "assets/Fonts/Pretendard-Regular.otf",
+      "sha1": "e205ef0a314d9da4e1a9382e0e65a25900a9ac7b"
+    },
+    {
+      "path": "assets/Fonts/Pretendard-SemiBold.otf",
+      "sha1": "916a62152b7fd08ff43d239de04303a465521fe6"
+    }
+  ]
+}
